@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Phillip Yagyu, web developer 🚀
+## 👋 Hi, I’m Phillip Yagyu 🚀
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
 - 🚀 I'm looking to become a Full Stack dev. Want to learn NODE and REACT.
