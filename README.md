@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Phillip Yagyu, web developer 🚀
-- 👀 I’m interested in Front-End
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🚀 I'm looking to become a Full Stack dev. Want to learn NODE and REACT.
 
  <div align="center">
   <a href="https://github.com/phillyagyu">
