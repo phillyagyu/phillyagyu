@@ -1,21 +1,7 @@
 ## 👋 Hi, I’m Phillip 🚀
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
-- 🚀 I'm looking to become a Full Stack dev. Want to learn NODE and REACT.
-
- <div align="center" style="display: inline-block">
-  <a href="https://github.com/phillyagyu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phillyagyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillyagyu&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+- 👀 I’m currently working as N2 Support at Active Rail Technology.
+- 🌱 I’m currently learning C and Python.
+- 🚀 I'm looking to become a better Developer one day at a time!
 ##
   
 <div> 
